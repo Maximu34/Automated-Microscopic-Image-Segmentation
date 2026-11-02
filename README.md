@@ -257,6 +257,3 @@ Developed as a Fourth Year Academic Project, 2026–2027.
 
 This project is developed for academic and educational purposes. Add a suitable open-source license if you intend to permit reuse and redistribution.
 
----
-
-⭐ If you find this project useful, consider giving the repository a star!
